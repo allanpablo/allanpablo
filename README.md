@@ -1,16 +1,33 @@
+
+ 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷 <br/>
+![Badge](https://img.shields.io/badge/Git-AllanPablo-%237159c1?style=for-the-badge&logo=ghost)
 ### Hi there 👋
 
-<!--
-**allanpablo/allanpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"> 
+	🚧  Readme 🚀 Em construção...  🚧
+</h4>
 
-Here are some ideas to get you started:
+Sou apaixonado por resolver problemas de :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket:   Estou trabalhando no :hospital: Hospital RioGrande 
+ & estudando *Ti*
+- :purple_heart:  Buscando colaborar com projetos em Front-end
+- :blush: Gosto de Apoiar Projetos
+- :computer: Minha stack: React, Node.js,Typescript
+- 💬  Sobre mim: Curto tecnologias, games :gun: CS:GO :bomb:
+- :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AllanPablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-pablo/)](https://www.linkedin.com/in/allan-pablo/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-allanpablo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allanpablo@gmail.com)](mailto:allanpablo@gmail.com)
+
+<br/>
+
+
+### Features
+
+- [x] Criação de ReadMe
+- [x] Produzir conteudo
+- [ ] Follow no Git
+
+![GitHub followers](https://img.shields.io/github/followers/allanpablo?style=social)
+
+<br/>
