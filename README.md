@@ -11,10 +11,9 @@ Sou apaixonado por resolver problemas de :computer:
 
 - :rocket:   Estou trabalhando no :hospital: Hospital RioGrande 
  & estudando *Ti*
-- :purple_heart:  Buscando colaborar com projetos em Front-end
-- :blush: Gosto de Apoiar Projetos
+- :purple_heart:  Buscando colaborar com projetos em Front-end e Back-end
 - :computer: Minha stack: React, Node.js,Typescript
-- 💬  Sobre mim: Curto tecnologias, games :gun: CS:GO :bomb:
+- 💬  Sobre mim: Curto tecnologias, musicas e games :gun: CS:GO :bomb:
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AllanPablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-pablo/)](https://www.linkedin.com/in/allan-pablo/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-allanpablo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allanpablo@gmail.com)](mailto:allanpablo@gmail.com)
