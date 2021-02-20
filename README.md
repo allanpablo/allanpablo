@@ -20,12 +20,14 @@ Sou apaixonado por resolver problemas de :computer:
 
 <br/>
 
+Projeto Meraki em andamento
+> [ ] portfolio
 
 ### Features
 
 - [x] Criação de ReadMe
 - [x] Produzir conteudo
-- [ ] Follow no Git
+>  [ ] Follow no Git
 
 ![GitHub followers](https://img.shields.io/github/followers/allanpablo?style=social)
 
