@@ -18,10 +18,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-allanpablo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allanpablo@gmail.com)](mailto:allanpablo@gmail.com)
 - 💬 About: System Analyst At Hospital Rio Grande, Musician in [MayraElisa - listening in Spotify](https://open.spotify.com/artist/07LLF7hYYqdV7DwgEDM3im?si=eHREEP4hSVS6SanwUfp6cw) and playing games :gun: CS:GO :bomb:
 - ⚡ Fun fact: I'm trying to streaming game and programming videos
-- 
-<br/>
-
-
 
 - :computer:
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
@@ -38,6 +34,3 @@
 ![GitHub followers](https://img.shields.io/github/followers/allanpablo?style=social)
 
 <img src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&theme=dracula" alt="allanpablo stats"/> 
-
-<br/>
-
