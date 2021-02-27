@@ -37,7 +37,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/allanpablo?style=social)
 
-<img src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true" alt="allanpablo stats"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&theme=radical" alt="allanpablo stats"/> 
 
 <br/>
 
