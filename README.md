@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanpablo" alt="allanpablo" /> </p>
 <h4 align="center"> 
-	🚧  Readme 🚀 Building...  🚧
+	🚧  Building ... 🚀  .:Readme:.  🚧
 </h4>
 
 
@@ -19,8 +19,8 @@
 - 💬 About: System Analyst At Hospital Rio Grande, Musician in [MayraElisa - listening in Spotify](https://open.spotify.com/artist/07LLF7hYYqdV7DwgEDM3im?si=eHREEP4hSVS6SanwUfp6cw) and playing games :gun: CS:GO :bomb:
 - ⚡ Fun fact: I'm trying to streaming game and programming videos
 
-- :computer:
-### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
+
+### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt&nbsp;&nbsp;&nbsp;:computer:
 <br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="24" height="20"/><br><br>
 
 > [ ] Repositories 
