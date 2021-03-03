@@ -34,7 +34,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1611266919/12190/among-us-red-run.gif?1611266919" width="28"> My contribution streak
 
 <p align="center">
-  <a href="https://github.com/allanpablo/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allanpablo#version1"/>
   </a>
 </p>
@@ -49,14 +49,17 @@
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
    <br/>
-  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" /></a>
-  <br/></a>
+	<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&count_private=true&hide=" /></a>
+  
+  <br/>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allanpablo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <br/>
+  <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" /></a>
+  <br/>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
