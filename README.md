@@ -48,7 +48,9 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/allanpablo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true" alt="allanpablo stats"/> </a>
+   <br/>
+  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" /></a>
+  <br/></a>
 </details>
 
 <details> 
