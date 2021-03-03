@@ -43,14 +43,14 @@
 
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1463601502/415/challenge_accepted.jpg?1463601502" width="28"> Github Stats
-<img align="right" alt="GIF" src="https://github.com/allanpablo/allanpablo/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/allanpablo/allanpablo/blob/master/code.gif?raw=true" width="375" height="240" />
 
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
    <br/>
-	<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&count_private=true&hide=" width="400" /></a>
+	<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&count_private=true&hide=" width="350" /></a>
   
   <br/>
 </details>
@@ -59,7 +59,7 @@
   <summary>💻 Most used languages</summary>
   <br/>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" width="400" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" width="350" /></a>
   <br/>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
