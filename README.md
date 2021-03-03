@@ -43,6 +43,7 @@
 
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1463601502/415/challenge_accepted.jpg?1463601502" width="28"> Github Stats
+<img align="right" alt="GIF" src="https://github.com/allanpablo/allanpablo/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <details>
