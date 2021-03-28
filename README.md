@@ -50,7 +50,9 @@
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
    <br/>
-	<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api?username=allanpablo&show_icons=true&count_private=true&hide=" width="350" /></a>
+
+	
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allanpablo&theme=dark&hide_border=true&border=dd2727&dates=3c27dd)]
   
   <br/>
 </details>
