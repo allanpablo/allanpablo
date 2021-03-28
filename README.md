@@ -34,7 +34,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1611266919/12190/among-us-red-run.gif?1611266919" width="28"> My contribution streak
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allanpablo&theme=dark&hide_border=true&border=dd2727&dates=3c27dd)](https://github.com/DenverCoder1/github-readme-streak-stats)
+	  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=allanpablo&theme=dark&hide_border=true&border=dd2727&dates=3c27dd"/>
+  </a>
 </p>
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/allanpablo?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
