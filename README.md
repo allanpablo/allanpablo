@@ -21,7 +21,7 @@
 
 * 💻 I'm currently full stack web developer
 * 🎓 I'm a information management & technology graduate ,  Computer Network Technician at IFRN , Web Developer Technician at IFRN
-*  I’m currently working on [HRG](https://www.hospitalangiovascular.com.br) :hospital:, Musician in [MayraElisa - listening in Spotify](https://open.spotify.com/artist/07LLF7hYYqdV7DwgEDM3im?si=eHREEP4hSVS6SanwUfp6cw) and playing games :gun: CS:GO :bomb:
+*  I’m currently working on [AngioVascular](https://www.hospitalangiovascular.com.br) :hospital:, Musician in [MayraElisa - listening in Spotify](https://open.spotify.com/artist/07LLF7hYYqdV7DwgEDM3im?si=eHREEP4hSVS6SanwUfp6cw) and playing games :gun: CS:GO :bomb:
 * 👯 I’m looking to collaborate on Initial devs like me :trollface:
 * 🌐 You can see some of my projects on [my portfolio](https://github.com/allanpablo/)
 * ⚡ Fun fact: I'm trying to streaming game and programming videos
