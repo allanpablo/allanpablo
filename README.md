@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/gkIz3Y7.png" height="225px"/></a>
+<!-- imagem morreu T_T, <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/gkIz3Y7.png" height="225px"/></a> -->
 
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Allan <a href="https://instagram.com/_allanpablo">ApK</a>  Pablo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
