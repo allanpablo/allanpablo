@@ -56,9 +56,7 @@
 <details>
   <summary>📊 Estatísticas do GitHub</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=allanpablo&theme=dark&hide_border=true&border=dd2727&dates=3c27dd"/>
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=allanpablo&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </details>
 
 <details>
