@@ -35,15 +35,15 @@
 - 🧠 Foco em automação, melhoria de processos, gestão de equipes técnicas e digitalização hospitalar
 - 👨‍💻 **Full Stack Developer** apaixonado por web, mobile e inteligência artificial aplicada à saúde
 - 🏢 Experiência em liderança, cloud, infraestrutura, segurança e capacitação de times técnicos
-- 🎓 Formado em Tecnologia da Informação (IFRN) e Gestão de Redes  
+- 🎓 Formado em Tecnologia da Informação, Redes (IFRN) e Gestão de TI (UFRN)   
 - 📚 Atualmente fazendo Pós-graduação em **Inteligência Artificial para Saúde** na PUCPR
-- 📝 Entrego soluções que unem tecnologia, agilidade e confiabilidade para o segmento da saúde!
+- 📝 Entrego soluções que unem tecnologia, agilidade e confiabilidade para todo segmento, especializado em saúde!
 
 ---
 
 ## 🎯 Objetivos e interesses
 
-- ⚙️ Implementar **produtividade via automação** em equipes técnicas na saúde
+- ⚙️ Implementar **produtividade via automação** 
 - 🤖 Transformar rotinas em sistemas inteligentes (Dashboards, relatórios, bots de comunicação)
 - 📱 Desenvolver apps para telemedicina, gestão clínica e automação hospitalar
 - 💬 Compartilhar conhecimento em podcasts, Twitch, YouTube e comunidades tech
