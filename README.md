@@ -62,9 +62,7 @@
 <details>
   <summary>💻 Linguagens mais usadas</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-stats">
-    <img alt="Allan ApK Pablo -  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpablo&langs_count=10&layout=compact#" width="350" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=allanpablo&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br/>
   <b>Obs:</b> Este gráfico mostra os repositórios públicos e não representa a experiência completa.
 </details>
