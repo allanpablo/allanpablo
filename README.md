@@ -4,9 +4,6 @@
 </h3>
 
 <p align="center">
-  <a href="https:/twitch.tv/allanpablo_">
-    <img alt="followers" title="Follow me on Twitch" src="https://img.shields.io/twitch/status/allanpablo_?logo=twitch&color=6441a5&style=for-the-badge"/>
-  </a>
   <a href="https://github.com/allanpablo">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/allanpablo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </a>
