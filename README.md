@@ -59,7 +59,7 @@
 <details>
   <summary>💻 Linguagens mais usadas</summary>
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=allanpablo&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=allanpablo&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)]
   <br/>
   <b>Obs:</b> Este gráfico mostra os repositórios públicos e não representa a experiência completa.
 </details>
